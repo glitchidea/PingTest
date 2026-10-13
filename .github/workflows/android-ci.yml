@@ -1,0 +1,172 @@
+name: Android CI/CD
+
+# Triggers:
+#  - push to main       -> build + attach APK artifact
+#  - v* tag             -> versioned build + attach APK to a GitHub Release
+#  - pull_request       -> build verification
+#  - manual (workflow_dispatch)
+on:
+  push:
+    branches: [ main, master ]
+    tags: [ 'v*' ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+# Avoid overlapping runs for the same ref.
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write   # to create releases
+  issues: write     # to open/close failure notifications
+
+jobs:
+  build:
+    name: Build & Package
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: gradle
+
+      # Use the Android SDK preinstalled on the runner (setup-android@v3 tried to
+      # install the now-removed "tools" package and failed).
+      - name: Set Android SDK env
+        run: |
+          echo "ANDROID_SDK_ROOT=${ANDROID_SDK_ROOT:-/usr/local/lib/android/sdk}" >> "$GITHUB_ENV"
+          echo "ANDROID_HOME=${ANDROID_SDK_ROOT:-/usr/local/lib/android/sdk}" >> "$GITHUB_ENV"
+
+      - name: Install SDK components (platform 36 + build-tools)
+        run: |
+          SDKM="$ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager"
+          [ -x "$SDKM" ] || SDKM="$(find "$ANDROID_SDK_ROOT/cmdline-tools" -name sdkmanager -type f | head -n1)"
+          echo "sdkmanager: $SDKM"
+          yes | "$SDKM" --licenses >/dev/null 2>&1 || true
+          "$SDKM" --install "platforms;android-36" "build-tools;36.0.0" "platform-tools" >/dev/null
+          echo "Installed components:"; "$SDKM" --list_installed | sed -n '1,15p'
+
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
+
+      # Version: derived from the tag when present, otherwise 1.0.0.<run_number>.
+      - name: Compute version
+        id: ver
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/v* ]]; then
+            VNAME="${GITHUB_REF_NAME#v}"
+          else
+            VNAME="1.0.0.${GITHUB_RUN_NUMBER}"
+          fi
+          VCODE="${GITHUB_RUN_NUMBER}"
+          echo "name=$VNAME" >> "$GITHUB_OUTPUT"
+          echo "code=$VCODE" >> "$GITHUB_OUTPUT"
+          echo "Version: $VNAME (versionCode=$VCODE)"
+
+      - name: Build debug APK
+        run: |
+          ./gradlew --no-daemon assembleDebug \
+            -PversionNameOverride=${{ steps.ver.outputs.name }} \
+            -PversionCodeOverride=${{ steps.ver.outputs.code }}
+
+      - name: Name APK (versioned + stable latest)
+        run: |
+          mkdir -p out
+          SRC=app/build/outputs/apk/debug/app-debug.apk
+          cp "$SRC" "out/PingTest-${{ steps.ver.outputs.name }}.apk"
+          # Stable name so a link like
+          # https://github.com/glitchidea/PingTest/releases/latest/download/PingTest.apk
+          # always serves the newest build without any API call.
+          cp "$SRC" "out/PingTest.apk"
+          ls -la out/
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: PingTest-${{ steps.ver.outputs.name }}
+          path: out/*.apk
+          if-no-files-found: error
+
+      - name: Create GitHub Release (tags only)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          name: PingTest ${{ steps.ver.outputs.name }}
+          tag_name: ${{ github.ref_name }}
+          files: out/*.apk
+          # Explicit body (instead of auto-generated notes) so re-runs never
+          # duplicate the "Full Changelog" section.
+          generate_release_notes: false
+          body: |
+            ## PingTest ${{ steps.ver.outputs.name }}
+
+            Root-free Android network tester — reachability and latency for IPs, DNS servers and websites.
+
+            - **Website:** https://pingtest.glitchidea.com/
+            - **Download:** `PingTest-${{ steps.ver.outputs.name }}.apk` (see Assets below)
+            - **Source:** https://github.com/glitchidea/PingTest
+
+            Built automatically from tag `${{ github.ref_name }}`.
+
+      # ---- Notification: open/comment an issue on failure ----
+      - name: Notify failure (issue)
+        if: failure() && github.event_name != 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const label = 'ci-failure';
+            const refName = context.ref.replace('refs/heads/', '').replace('refs/tags/', '');
+            const title = `CI failed: ${refName}`;
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const body = [
+              'The build **failed**. ❌',
+              '',
+              `- Workflow: ${context.workflow}`,
+              `- Ref: ${context.ref}`,
+              `- Commit: ${context.sha}`,
+              `- Run: ${runUrl}`,
+            ].join('\n');
+            try {
+              await github.rest.issues.getLabel({ ...context.repo, name: label });
+            } catch (e) {
+              await github.rest.issues.createLabel({ ...context.repo, name: label, color: 'd73a4a' });
+            }
+            const { data: issues } = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: label, per_page: 100,
+            });
+            const existing = issues.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title, body, labels: [label] });
+            }
+
+      # ---- Notification: close the related issue on success ----
+      - name: Notify success (close issue)
+        if: success() && github.event_name != 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const label = 'ci-failure';
+            const refName = context.ref.replace('refs/heads/', '').replace('refs/tags/', '');
+            const title = `CI failed: ${refName}`;
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const { data: issues } = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: label, per_page: 100,
+            });
+            const existing = issues.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({
+                ...context.repo, issue_number: existing.number,
+                body: `The build is **green** again. ✅\n\nRun: ${runUrl}`,
+              });
+              await github.rest.issues.update({ ...context.repo, issue_number: existing.number, state: 'closed' });
+            }

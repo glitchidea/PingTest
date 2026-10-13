@@ -1,0 +1,732 @@
+dns://91.187.70.80 , Andorra 1
+dns://46.172.232.102 , Andorra 2
+dns://194.69.254.15?ad , Andorra TLD
+dns://193.123.68.154 , United Arab Emirates 1
+dns://87.200.60.14 , United Arab Emirates 2
+dns://202.12.31.53?ae , United Arab Emirates TLD
+dns://116.204.243.9 , Afghanistan 1
+dns://180.94.94.195 , Afghanistan 2
+dns://204.61.216.13?af , Afghanistan TLD
+dns://66.249.150.50 , Antigua and Barbuda 1
+dns://185.51.61.167 , Antigua and Barbuda 2
+dns://199.254.59.1?ag , Antigua and Barbuda TLD
+dns://199.115.152.1?ai , Anguilla TLD
+dns://199.115.153.1?ai , Anguilla TLD
+dns://199.115.154.1?ai , Anguilla TLD
+dns://91.226.220.250 , Albania 1
+dns://45.90.80.14 , Albania 2
+dns://194.1.149.230?al , Albania TLD
+dns://81.89.215.193 , Armenia 1
+dns://91.205.135.227 , Armenia 2
+dns://77.72.229.254?am , Armenia TLD
+dns://105.174.40.238 , Angola 1
+dns://154.127.150.168 , Angola 2
+dns://206.51.254.4?ao , Angola TLD
+dns://202.46.190.131?aq , Antarctica TLD
+dns://77.72.229.254?aq , Antarctica TLD
+dns://204.61.216.132?aq , Antarctica TLD
+dns://200.16.208.187 , Argentina 1
+dns://190.210.8.69 , Argentina 2
+dns://200.0.68.10?ar , Argentina TLD
+dns://202.70.125.10 , American Samoa 1
+dns://213.248.219.254?as , American Samoa TLD
+dns://103.49.83.254?as , American Samoa TLD
+dns://194.208.13.7 , Austria 1
+dns://202.61.196.175 , Austria 2
+dns://81.91.161.98?at , Austria TLD
+dns://172.105.162.206 , Australia 1
+dns://139.99.213.23 , Australia 2
+dns://58.65.254.1?au , Australia TLD
+dns://201.229.68.14 , Aruba 1
+dns://194.0.28.2?aw , Aruba TLD
+dns://194.0.25.25?aw , Aruba TLD
+dns://212.17.164.17 , Åland Islands 1
+dns://194.112.0.1?ax , Åland Islands TLD
+dns://194.112.0.5?ax , Åland Islands TLD
+dns://81.21.82.109 , Azerbaijan 1
+dns://5.191.8.238 , Azerbaijan 2
+dns://195.47.253.13?az , Azerbaijan TLD
+dns://5.149.91.59 , Bosnia and Herzegovina 1
+dns://5.149.91.145 , Bosnia and Herzegovina 2
+dns://204.61.216.117?ba , Bosnia and Herzegovina TLD
+dns://64.210.41.182 , Barbados 1
+dns://65.166.246.17 , Barbados 2
+dns://64.68.196.10?bb , Barbados TLD
+dns://103.19.253.153 , Bangladesh 1
+dns://58.84.32.154 , Bangladesh 2
+dns://123.49.12.112?bd , Bangladesh TLD
+dns://83.134.123.101 , Belgium 1
+dns://62.197.120.226 , Belgium 2
+dns://194.0.6.1?be , Belgium TLD
+dns://206.82.130.195 , Burkina Faso 1
+dns://41.216.159.6 , Burkina Faso 2
+dns://212.52.146.50?bf , Burkina Faso TLD
+dns://82.146.26.2 , Bulgaria 1
+dns://95.158.129.2 , Bulgaria 2
+dns://192.92.129.99?bg , Bulgaria TLD
+dns://157.175.58.241 , Bahrain 1
+dns://15.184.149.131 , Bahrain 2
+dns://64.96.1.1?bh , Bahrain TLD
+dns://197.157.194.254 , Burundi 1
+dns://102.134.106.90 , Burundi 2
+dns://193.0.9.62?bi , Burundi TLD
+dns://154.66.140.80 , Benin 1
+dns://154.66.140.72 , Benin 2
+dns://154.65.28.218?bj , Benin TLD
+dns://199.68.195.249 , Bermuda 1
+dns://69.17.200.231 , Bermuda 2
+dns://199.254.59.9?bm , Bermuda TLD
+dns://202.160.40.91 , Brunei Darussalam 1
+dns://202.160.38.188 , Brunei Darussalam 2
+dns://194.0.1.33?bn , Brunei Darussalam TLD
+dns://190.181.21.50 , Bolivia Plurinational State of 1
+dns://190.186.18.161 , Bolivia Plurinational State of 2
+dns://204.61.216.48?bo , Bolivia Plurinational State of TLD
+dns://190.107.252.178 , Bonaire Sint Eustatius and Saba 1
+dns://190.107.252.121 , Bonaire Sint Eustatius and Saba 2
+dns://179.109.15.42 , Brazil 1
+dns://167.250.65.246 , Brazil 2
+dns://200.219.148.10?br , Brazil TLD
+dns://208.87.35.199 , Bahamas 1
+dns://64.150.230.90 , Bahamas 2
+dns://194.0.1.36?bs , Bahamas TLD
+dns://202.144.140.220 , Bhutan 1
+dns://43.241.138.152 , Bhutan 2
+dns://156.106.192.121?bt , Bhutan TLD
+dns://158.38.61.97?bv , Bouvet Island TLD
+dns://128.39.8.40?bv , Bouvet Island TLD
+dns://193.75.4.22?bv , Bouvet Island TLD
+dns://129.205.210.90 , Botswana 1
+dns://154.70.151.73 , Botswana 2
+dns://204.61.216.70?bw , Botswana TLD
+dns://178.124.152.74 , Belarus 1
+dns://93.125.113.35 , Belarus 2
+dns://93.125.25.72?by , Belarus TLD
+dns://190.197.54.82 , Belize 1
+dns://199.254.59.1?bz , Belize TLD
+dns://199.249.116.1?bz , Belize TLD
+dns://209.239.11.98 , Canada 1
+dns://76.76.2.2 , Canada 2
+dns://185.159.196.2?ca , Canada TLD
+dns://192.42.173.30?cc , Cocos (Keeling) Islands TLD
+dns://192.42.174.30?cc , Cocos (Keeling) Islands TLD
+dns://192.42.175.30?cc , Cocos (Keeling) Islands TLD
+dns://102.68.154.33 , Congo Democratic Republic of the 1
+dns://192.145.188.1 , Congo Democratic Republic of the 2
+dns://204.61.216.139?cd , Congo Democratic Republic of the TLD
+dns://185.21.168.17?cf , Central African Republic TLD
+dns://185.21.169.17?cf , Central African Republic TLD
+dns://185.21.170.17?cf , Central African Republic TLD
+dns://41.207.125.21 , Congo 1
+dns://197.214.248.66 , Congo 2
+dns://204.61.216.155?cg , Congo TLD
+dns://195.186.1.107 , Switzerland 1
+dns://31.3.135.232 , Switzerland 2
+dns://130.59.31.41?ch , Switzerland TLD
+dns://197.159.215.247 , Côte d'Ivoire 1
+dns://160.120.179.57 , Côte d'Ivoire 2
+dns://192.134.0.49?ci , Côte d'Ivoire TLD
+dns://130.195.6.10?ck , Cook Islands TLD
+dns://202.65.32.128?ck , Cook Islands TLD
+dns://130.195.5.12?ck , Cook Islands TLD
+dns://190.96.61.146 , Chile 1
+dns://186.64.123.114 , Chile 2
+dns://190.124.27.10?cl , Chile TLD
+dns://41.211.108.4 , Cameroon 1
+dns://165.211.21.133 , Cameroon 2
+dns://156.106.192.121?cm , Cameroon TLD
+dns://202.46.34.74 , China 1
+dns://202.46.33.250 , China 2
+dns://203.119.25.1?cn , China TLD
+dns://177.93.44.64 , Colombia 1
+dns://190.248.153.162 , Colombia 2
+dns://194.169.218.57?co , Colombia TLD
+dns://201.202.55.203 , Costa Rica 1
+dns://179.50.223.70 , Costa Rica 2
+dns://200.0.68.10?cr , Costa Rica TLD
+dns://190.15.159.183 , Cuba 1
+dns://152.206.201.77 , Cuba 2
+dns://193.0.9.70?cu , Cuba TLD
+dns://41.79.125.100 , Cabo Verde 1
+dns://41.221.203.153 , Cabo Verde 2
+dns://204.61.216.105?cv , Cabo Verde TLD
+dns://193.0.9.86?cw , Curaçao TLD
+dns://128.86.1.20?cw , Curaçao TLD
+dns://193.63.94.20?cw , Curaçao TLD
+dns://204.61.216.16?cx , Christmas Island TLD
+dns://185.38.108.108?cx , Christmas Island TLD
+dns://185.28.194.194?cx , Christmas Island TLD
+dns://31.209.96.173 , Cyprus 1
+dns://31.209.98.18 , Cyprus 2
+dns://202.12.31.53?cy , Cyprus TLD
+dns://81.201.58.99 , Czechia 1
+dns://178.22.113.198 , Czechia 2
+dns://194.0.12.1?cz , Czechia TLD
+dns://78.47.243.3 , Germany 1
+dns://80.78.132.79 , Germany 2
+dns://194.0.0.53?de , Germany TLD
+dns://197.241.17.175?dj , Djibouti TLD
+dns://196.201.196.54?dj , Djibouti TLD
+dns://52.213.131.190?dj , Djibouti TLD
+dns://185.38.27.139 , Denmark 1
+dns://130.226.161.34 , Denmark 2
+dns://193.163.102.222?dk , Denmark TLD
+dns://81.17.240.204?dm , Dominica TLD
+dns://199.127.196.35?dm , Dominica TLD
+dns://78.153.202.4?dm , Dominica TLD
+dns://190.8.35.226 , Dominican Republic 1
+dns://45.229.33.66 , Dominican Republic 2
+dns://190.113.65.13?do , Dominican Republic TLD
+dns://196.41.255.10 , Algeria 1
+dns://193.194.79.194 , Algeria 2
+dns://193.194.64.242?dz , Algeria TLD
+dns://45.236.169.151 , Ecuador 1
+dns://190.152.5.126 , Ecuador 2
+dns://200.0.68.10?ec , Ecuador TLD
+dns://46.36.219.173 , Estonia 1
+dns://91.146.95.145 , Estonia 2
+dns://194.146.106.110?ee , Estonia TLD
+dns://154.236.189.28 , Egypt 1
+dns://193.227.50.3 , Egypt 2
+dns://78.104.145.8?eg , Egypt TLD
+dns://193.0.9.72?er , Eritrea TLD
+dns://196.200.96.1?er , Eritrea TLD
+dns://196.200.96.2?er , Eritrea TLD
+dns://212.231.196.9 , Spain 1
+dns://82.223.55.210 , Spain 2
+dns://194.69.254.1?es , Spain TLD
+dns://213.55.96.166 , Ethiopia 1
+dns://196.190.40.233 , Ethiopia 2
+dns://197.156.74.192?et , Ethiopia TLD
+dns://65.21.151.121 , Finland 1
+dns://95.216.161.85 , Finland 2
+dns://193.166.4.1?fi , Finland TLD
+dns://144.120.146.1?fj , Fiji TLD
+dns://144.120.146.65?fj , Fiji TLD
+dns://185.38.108.108?fj , Fiji TLD
+dns://80.73.216.250?fk , Falkland Islands (Malvinas) TLD
+dns://80.73.216.251?fk , Falkland Islands (Malvinas) TLD
+dns://93.187.151.42?fk , Falkland Islands (Malvinas) TLD
+dns://194.169.218.26?fm , Micronesia Federated States of TLD
+dns://185.24.64.26?fm , Micronesia Federated States of TLD
+dns://212.18.248.26?fm , Micronesia Federated States of TLD
+dns://194.169.218.27?fo , Faroe Islands TLD
+dns://185.24.64.27?fo , Faroe Islands TLD
+dns://212.18.248.27?fo , Faroe Islands TLD
+dns://51.254.25.115 , France 1
+dns://163.172.168.171 , France 2
+dns://194.0.9.1?fr , France TLD
+dns://41.158.1.162 , Gabon 1
+dns://41.158.1.163 , Gabon 2
+dns://194.0.9.1?ga , Gabon TLD
+dns://88.208.244.225 , United Kingdom of Great Britain and Northern Ireland 1
+dns://109.224.233.174 , United Kingdom of Great Britain and Northern Ireland 2
+dns://137.39.1.3?gb , United Kingdom of Great Britain and Northern Ireland TLD
+dns://194.169.218.88?gd , Grenada TLD
+dns://185.24.64.88?gd , Grenada TLD
+dns://212.18.248.88?gd , Grenada TLD
+dns://212.72.130.20 , Georgia 1
+dns://212.72.130.21 , Georgia 2
+dns://185.19.99.30?ge , Georgia TLD
+dns://90.82.59.161 , French Guiana 1
+dns://217.108.102.6 , French Guiana 2
+dns://213.16.20.3?gf , French Guiana TLD
+dns://88.81.144.211 , Guernsey 1
+dns://194.146.106.86?gg , Guernsey TLD
+dns://204.61.216.74?gg , Guernsey TLD
+dns://41.189.188.66 , Ghana 1
+dns://154.160.15.43 , Ghana 2
+dns://197.253.127.251?gh , Ghana TLD
+dns://185.83.148.5 , Gibraltar 1
+dns://185.94.77.100 , Gibraltar 2
+dns://199.254.59.1?gi , Gibraltar TLD
+dns://194.177.224.47 , Greenland 1
+dns://194.177.224.12?gl , Greenland TLD
+dns://194.177.224.15?gl , Greenland TLD
+dns://196.216.168.29?gm , Gambia TLD
+dns://209.250.227.199?gm , Gambia TLD
+dns://194.63.250.217?gm , Gambia TLD
+dns://102.176.160.107 , Guinea 1
+dns://41.191.220.77 , Guinea 2
+dns://41.77.190.237?gn , Guinea TLD
+dns://81.248.145.154 , Guadeloupe 1
+dns://5.187.116.81 , Guadeloupe 2
+dns://200.0.68.10?gp , Guadeloupe TLD
+dns://102.164.248.14 , Equatorial Guinea 1
+dns://102.164.255.149 , Equatorial Guinea 2
+dns://185.21.171.65?gq , Equatorial Guinea TLD
+dns://192.71.166.92 , Greece 1
+dns://2.85.104.249 , Greece 2
+dns://194.0.25.48?gr , Greece TLD
+dns://185.28.194.194?gs , South Georgia and the South Sandwich Islands TLD
+dns://204.61.216.21?gs , South Georgia and the South Sandwich Islands TLD
+dns://185.38.108.108?gs , South Georgia and the South Sandwich Islands TLD
+dns://200.35.161.98 , Guatemala 1
+dns://200.114.113.67 , Guatemala 2
+dns://200.7.5.14?gt , Guatemala TLD
+dns://209.164.189.54 , Guam 1
+dns://209.164.189.55 , Guam 2
+dns://193.0.9.78?gu , Guam TLD
+dns://194.146.106.138?gw , Guinea-Bissau TLD
+dns://185.39.208.19?gw , Guinea-Bissau TLD
+dns://204.61.216.114?gw , Guinea-Bissau TLD
+dns://200.0.68.10?gy , Guyana TLD
+dns://204.61.216.34?gy , Guyana TLD
+dns://203.198.68.197 , Hong Kong 1
+dns://123.203.156.79 , Hong Kong 2
+dns://203.119.2.218?hk , Hong Kong TLD
+dns://223.252.41.82?hm , Heard Island and McDonald Islands TLD
+dns://223.252.41.83?hm , Heard Island and McDonald Islands TLD
+dns://128.199.180.188?hm , Heard Island and McDonald Islands TLD
+dns://200.107.232.215 , Honduras 1
+dns://190.124.164.250 , Honduras 2
+dns://200.0.68.10?hn , Honduras TLD
+dns://212.15.169.50 , Croatia 1
+dns://89.201.162.14 , Croatia 2
+dns://194.146.106.142?hr , Croatia TLD
+dns://200.0.68.10?ht , Haiti TLD
+dns://204.61.216.38?ht , Haiti TLD
+dns://194.0.9.1?ht , Haiti TLD
+dns://79.120.177.106 , Hungary 1
+dns://146.110.42.26 , Hungary 2
+dns://5.28.0.97?hu , Hungary TLD
+dns://114.6.227.28 , Indonesia 1
+dns://103.150.194.100 , Indonesia 2
+dns://103.19.179.179?id , Indonesia TLD
+dns://23.102.21.142 , Ireland 1
+dns://3.249.115.37 , Ireland 2
+dns://77.72.72.40?ie , Ireland TLD
+dns://80.179.226.56 , Israel 1
+dns://176.228.53.46 , Israel 2
+dns://194.146.106.122?il , Israel TLD
+dns://185.246.128.162 , Isle of Man 1
+dns://193.62.157.66?im , Isle of Man TLD
+dns://217.23.160.50?im , Isle of Man TLD
+dns://103.23.150.89 , India 1
+dns://202.134.52.105 , India 2
+dns://64.96.1.1?in , India TLD
+dns://65.22.160.17?io , British Indian Ocean Territory TLD
+dns://65.22.163.17?io , British Indian Ocean Territory TLD
+dns://65.22.161.17?io , British Indian Ocean Territory TLD
+dns://195.133.222.66 , Iraq 1
+dns://188.72.51.34 , Iraq 2
+dns://194.117.57.105?iq , Iraq TLD
+dns://185.231.182.126 , Iran Islamic Republic of 1
+dns://46.224.1.42 , Iran Islamic Republic of 2
+dns://193.189.123.2?ir , Iran Islamic Republic of TLD
+dns://93.95.226.165 , Iceland 1
+dns://82.221.128.44 , Iceland 2
+dns://185.93.156.10?is , Iceland TLD
+dns://83.103.61.107 , Italy 1
+dns://94.141.24.92 , Italy 2
+dns://194.0.16.215?it , Italy TLD
+dns://87.244.76.66 , Jersey 1
+dns://185.3.52.19 , Jersey 2
+dns://194.146.106.86?je , Jersey TLD
+dns://63.143.125.14 , Jamaica 1
+dns://72.252.248.25 , Jamaica 2
+dns://193.0.9.82?jm , Jamaica TLD
+dns://92.253.127.65 , Jordan 1
+dns://5.198.243.202 , Jordan 2
+dns://193.188.66.2?jo , Jordan TLD
+dns://202.248.37.74 , Japan 1
+dns://1.33.184.194 , Japan 2
+dns://203.119.1.1?jp , Japan TLD
+dns://197.232.253.210 , Kenya 1
+dns://197.232.47.102 , Kenya 2
+dns://204.61.216.7?ke , Kenya TLD
+dns://92.62.65.237 , Kyrgyzstan 1
+dns://109.201.166.153 , Kyrgyzstan 2
+dns://193.0.9.84?kg , Kyrgyzstan TLD
+dns://36.37.160.242 , Cambodia 1
+dns://96.9.69.164 , Cambodia 2
+dns://202.12.31.53?kh , Cambodia TLD
+dns://204.61.216.26?ki , Kiribati TLD
+dns://185.38.108.108?ki , Kiribati TLD
+dns://185.28.194.194?ki , Kiribati TLD
+dns://196.216.168.46?km , Comoros TLD
+dns://185.28.194.194?kn , Saint Kitts and Nevis TLD
+dns://185.38.108.108?kn , Saint Kitts and Nevis TLD
+dns://204.61.216.109?kn , Saint Kitts and Nevis TLD
+dns://175.45.176.15?kp , Korea Democratic People's Republic of TLD
+dns://175.45.176.16?kp , Korea Democratic People's Republic of TLD
+dns://165.246.10.2 , Korea Republic of 1
+dns://210.94.0.7 , Korea Republic of 2
+dns://210.101.60.1?kr , Korea Republic of TLD
+dns://193.33.224.253 , Kuwait 1
+dns://83.68.167.38 , Kuwait 2
+dns://54.228.209.46?kw , Kuwait TLD
+dns://216.144.84.145 , Cayman Islands 1
+dns://64.96.1.1?ky , Cayman Islands TLD
+dns://64.96.2.1?ky , Cayman Islands TLD
+dns://91.185.19.168 , Kazakhstan 1
+dns://89.218.5.109 , Kazakhstan 2
+dns://194.0.21.5?kz , Kazakhstan TLD
+dns://202.137.128.6 , Lao People's Democratic Republic 1
+dns://141.164.110.46 , Lao People's Democratic Republic 2
+dns://185.24.64.15?la , Lao People's Democratic Republic TLD
+dns://5.57.7.79 , Lebanon 1
+dns://77.75.90.225 , Lebanon 2
+dns://147.28.0.39?lb , Lebanon TLD
+dns://199.254.59.1?lc , Saint Lucia TLD
+dns://199.249.116.1?lc , Saint Lucia TLD
+dns://199.254.60.1?lc , Saint Lucia TLD
+dns://80.76.3.47 , Liechtenstein 1
+dns://85.31.153.151 , Liechtenstein 2
+dns://130.59.31.42?li , Liechtenstein TLD
+dns://116.12.89.217 , Sri Lanka 1
+dns://123.231.6.18?lk , Sri Lanka TLD
+dns://43.252.12.206?lk , Sri Lanka TLD
+dns://164.160.8.189 , Liberia 1
+dns://197.215.217.251 , Liberia 2
+dns://46.224.94.61?lr , Liberia TLD
+dns://196.43.249.1?ls , Lesotho TLD
+dns://196.11.175.1?ls , Lesotho TLD
+dns://204.61.216.28?ls , Lesotho TLD
+dns://85.206.107.169 , Lithuania 1
+dns://195.189.96.42 , Lithuania 2
+dns://185.150.40.131?lt , Lithuania TLD
+dns://85.93.209.51 , Luxembourg 1
+dns://107.189.28.80 , Luxembourg 2
+dns://158.64.229.18?lu , Luxembourg TLD
+dns://91.135.20.86 , Latvia 1
+dns://212.6.44.218 , Latvia 2
+dns://194.0.48.1?lv , Latvia TLD
+dns://165.16.58.124 , Libya 1
+dns://165.16.22.130 , Libya 2
+dns://62.240.36.9?ly , Libya TLD
+dns://196.88.56.155 , Morocco 1
+dns://41.77.116.62 , Morocco 2
+dns://81.192.171.131?ma , Morocco TLD
+dns://194.165.16.66 , Monaco 1
+dns://185.47.116.33 , Monaco 2
+dns://193.0.9.92?mc , Monaco TLD
+dns://212.0.202.80 , Moldova Republic of 1
+dns://31.131.0.53 , Moldova Republic of 2
+dns://185.108.181.191?md , Moldova Republic of TLD
+dns://213.149.113.211 , Montenegro 1
+dns://213.149.113.212 , Montenegro 2
+dns://199.253.59.1?me , Montenegro TLD
+dns://41.204.99.44 , Madagascar 1
+dns://41.207.49.92 , Madagascar 2
+dns://196.43.214.3?mg , Madagascar TLD
+dns://103.202.148.118 , Marshall Islands 1
+dns://103.202.149.7 , Marshall Islands 2
+dns://117.103.88.33?mh , Marshall Islands TLD
+dns://194.149.132.4 , North Macedonia 1
+dns://194.149.146.10 , North Macedonia 2
+dns://153.5.81.140?mk , North Macedonia TLD
+dns://154.118.190.94 , Mali 1
+dns://217.64.99.25 , Mali 2
+dns://196.10.220.136?ml , Mali TLD
+dns://65.18.114.254 , Myanmar 1
+dns://74.50.211.90 , Myanmar 2
+dns://37.209.192.4?mm , Myanmar TLD
+dns://124.158.88.56 , Mongolia 1
+dns://202.131.233.187 , Mongolia 2
+dns://199.254.59.1?mn , Mongolia TLD
+dns://202.175.81.69 , Macao 1
+dns://202.175.66.53 , Macao 2
+dns://202.175.87.47?mo , Macao TLD
+dns://16.162.31.128?mp , Northern Mariana Islands TLD
+dns://75.101.129.89?mp , Northern Mariana Islands TLD
+dns://16.163.54.122?mp , Northern Mariana Islands TLD
+dns://94.124.152.158 , Martinique 1
+dns://81.248.6.81 , Martinique 2
+dns://213.16.20.3?mq , Martinique TLD
+dns://82.151.73.122 , Mauritania 1
+dns://82.151.70.84 , Mauritania 2
+dns://193.146.150.193?mr , Mauritania TLD
+dns://200.0.68.10?ms , Montserrat TLD
+dns://185.38.108.108?ms , Montserrat TLD
+dns://185.28.194.194?ms , Montserrat TLD
+dns://194.105.32.2 , Malta 1
+dns://195.158.82.92 , Malta 2
+dns://192.93.0.4?mt , Malta TLD
+dns://102.116.108.83 , Mauritius 1
+dns://41.216.125.179 , Mauritius 2
+dns://199.254.59.33?mu , Mauritius TLD
+dns://83.137.206.77 , Maldives 1
+dns://69.94.91.20 , Maldives 2
+dns://188.166.71.229?mv , Maldives TLD
+dns://41.216.229.58 , Malawi 1
+dns://41.221.96.68 , Malawi 2
+dns://193.0.9.99?mw , Malawi TLD
+dns://207.248.224.72 , Mexico 1
+dns://207.248.224.71 , Mexico 2
+dns://192.100.224.1?mx , Mexico TLD
+dns://1.32.122.32 , Malaysia 1
+dns://211.25.11.15 , Malaysia 2
+dns://194.169.218.114?my , Malaysia TLD
+dns://196.3.97.82 , Mozambique 1
+dns://102.67.190.73 , Mozambique 2
+dns://204.61.216.14?mz , Mozambique TLD
+dns://197.234.98.210 , Namibia 1
+dns://196.20.15.241 , Namibia 2
+dns://185.28.194.194?na , Namibia TLD
+dns://113.21.121.81 , New Caledonia 1
+dns://202.171.76.86 , New Caledonia 2
+dns://193.0.9.100?nc , New Caledonia TLD
+dns://102.215.86.142 , Niger 1
+dns://102.215.85.106 , Niger 2
+dns://41.138.54.10?ne , Niger TLD
+dns://204.61.216.51?nf , Norfolk Island TLD
+dns://185.38.108.108?nf , Norfolk Island TLD
+dns://185.28.194.194?nf , Norfolk Island TLD
+dns://83.143.8.249 , Nigeria 1
+dns://169.239.48.11 , Nigeria 2
+dns://204.61.216.40?ng , Nigeria TLD
+dns://209.124.101.114 , Nicaragua 1
+dns://209.124.106.181 , Nicaragua 2
+dns://200.119.166.36?ni , Nicaragua TLD
+dns://5.2.75.75 , Netherlands Kingdom of the 1
+dns://195.129.12.114 , Netherlands Kingdom of the 2
+dns://194.0.28.53?nl , Netherlands Kingdom of the TLD
+dns://89.191.14.88 , Norway 1
+dns://79.161.134.140 , Norway 2
+dns://194.146.106.6?no , Norway TLD
+dns://124.41.240.53 , Nepal 1
+dns://118.91.161.210 , Nepal 2
+dns://198.32.126.50?np , Nepal TLD
+dns://203.98.224.66?nr , Nauru TLD
+dns://202.144.128.200?nr , Nauru TLD
+dns://203.98.225.9?nr , Nauru TLD
+dns://192.36.144.108?nu , Niue TLD
+dns://192.36.133.108?nu , Niue TLD
+dns://192.36.135.108?nu , Niue TLD
+dns://158.140.238.43 , New Zealand 1
+dns://125.239.155.163 , New Zealand 2
+dns://202.46.190.130?nz , New Zealand TLD
+dns://5.21.5.130 , Oman 1
+dns://5.21.243.47 , Oman 2
+dns://37.209.196.6?om , Oman TLD
+dns://206.132.225.187 , Panama 1
+dns://64.210.64.138 , Panama 2
+dns://200.0.68.10?pa , Panama TLD
+dns://190.12.95.170 , Peru 1
+dns://200.60.60.58 , Peru 2
+dns://200.0.68.10?pe , Peru TLD
+dns://202.3.229.2 , French Polynesia 1
+dns://113.197.68.20 , French Polynesia 2
+dns://202.3.225.20?pf , French Polynesia TLD
+dns://124.240.199.23 , Papua New Guinea 1
+dns://103.83.33.13 , Papua New Guinea 2
+dns://204.61.216.152?pg , Papua New Guinea TLD
+dns://120.28.57.114 , Philippines 1
+dns://161.49.215.57 , Philippines 2
+dns://206.51.255.1?ph , Philippines TLD
+dns://125.209.66.170 , Pakistan 1
+dns://59.103.243.83 , Pakistan 2
+dns://107.6.178.178?pk , Pakistan TLD
+dns://193.111.144.145 , Poland 1
+dns://78.11.44.46 , Poland 2
+dns://192.102.225.53?pl , Poland TLD
+dns://194.0.9.1?pm , Saint Pierre and Miquelon TLD
+dns://194.146.106.46?pm , Saint Pierre and Miquelon TLD
+dns://194.0.36.1?pm , Saint Pierre and Miquelon TLD
+dns://156.154.101.3?pn , Pitcairn TLD
+dns://213.248.223.128?pn , Pitcairn TLD
+dns://156.154.103.3?pn , Pitcairn TLD
+dns://104.255.181.6 , Puerto Rico 1
+dns://24.50.193.127 , Puerto Rico 2
+dns://200.0.68.10?pr , Puerto Rico TLD
+dns://213.244.72.31 , Palestine State of 1
+dns://188.225.225.25 , Palestine State of 2
+dns://168.119.39.120?ps , Palestine State of TLD
+dns://5.206.228.37 , Portugal 1
+dns://185.51.92.103 , Portugal 2
+dns://185.39.208.1?pt , Portugal TLD
+dns://202.124.225.237 , Palau 1
+dns://202.124.226.12 , Palau 2
+dns://64.96.1.1?pw , Palau TLD
+dns://201.217.41.78 , Paraguay 1
+dns://200.10.231.110 , Paraguay 2
+dns://200.160.0.5?py , Paraguay TLD
+dns://78.101.73.142 , Qatar 1
+dns://37.211.150.188 , Qatar 2
+dns://212.77.192.13?qa , Qatar TLD
+dns://102.35.162.43 , Réunion 1
+dns://194.3.180.11 , Réunion 2
+dns://194.0.9.1?re , Réunion TLD
+dns://89.137.245.202 , Romania 1
+dns://89.136.161.239 , Romania 2
+dns://194.0.11.113?ro , Romania TLD
+dns://79.101.99.2 , Serbia 1
+dns://77.46.138.33 , Serbia 2
+dns://91.199.17.59?rs , Serbia TLD
+dns://94.158.96.2 , Russian Federation 1
+dns://195.112.96.34 , Russian Federation 2
+dns://193.232.128.6?ru , Russian Federation TLD
+dns://41.215.248.143 , Rwanda 1
+dns://196.12.149.197 , Rwanda 2
+dns://196.49.7.188?rw , Rwanda TLD
+dns://2.88.93.191 , Saudi Arabia 1
+dns://2.88.148.46 , Saudi Arabia 2
+dns://86.111.192.9?sa , Saudi Arabia TLD
+dns://202.1.172.161 , Solomon Islands 1
+dns://202.1.172.187 , Solomon Islands 2
+dns://185.38.108.108?sb , Solomon Islands TLD
+dns://41.86.33.132 , Seychelles 1
+dns://185.247.225.17 , Seychelles 2
+dns://199.254.59.1?sc , Seychelles TLD
+dns://196.1.210.35 , Sudan 1
+dns://196.202.139.234 , Sudan 2
+dns://196.216.168.26?sd , Sudan TLD
+dns://213.188.153.178 , Sweden 1
+dns://13.51.179.100 , Sweden 2
+dns://192.36.144.107?se , Sweden TLD
+dns://210.80.58.66 , Singapore 1
+dns://202.136.163.11 , Singapore 2
+dns://202.12.31.53?sg , Singapore TLD
+dns://65.22.160.9?sh , Saint Helena Ascension and Tristan da Cunha TLD
+dns://65.22.163.9?sh , Saint Helena Ascension and Tristan da Cunha TLD
+dns://65.22.161.9?sh , Saint Helena Ascension and Tristan da Cunha TLD
+dns://193.2.122.11 , Slovenia 1
+dns://194.249.3.57 , Slovenia 2
+dns://153.5.81.140?si , Slovenia TLD
+dns://128.39.8.40?sj , Svalbard and Jan Mayen TLD
+dns://193.75.4.22?sj , Svalbard and Jan Mayen TLD
+dns://158.38.8.133?sj , Svalbard and Jan Mayen TLD
+dns://195.168.91.238 , Slovakia 1
+dns://213.81.218.225 , Slovakia 2
+dns://194.169.218.16?sk , Slovakia TLD
+dns://102.23.140.82 , Sierra Leone 1
+dns://51.195.14.249?sl , Sierra Leone TLD
+dns://45.83.41.38?sl , Sierra Leone TLD
+dns://194.183.64.10?sm , San Marino TLD
+dns://194.0.27.12?sm , San Marino TLD
+dns://193.0.9.110?sm , San Marino TLD
+dns://213.154.80.203 , Senegal 1
+dns://196.1.95.1?sn , Senegal TLD
+dns://193.0.9.111?sn , Senegal TLD
+dns://102.141.197.17 , Somalia 1
+dns://196.216.168.54?so , Somalia TLD
+dns://204.61.216.101?so , Somalia TLD
+dns://168.195.216.214?sr , Suriname TLD
+dns://168.195.219.210?sr , Suriname TLD
+dns://45.83.205.134?sr , Suriname TLD
+dns://196.216.168.27?ss , South Sudan TLD
+dns://185.28.194.194?ss , South Sudan TLD
+dns://185.38.108.108?ss , South Sudan TLD
+dns://79.136.119.20?st , Sao Tome and Principe TLD
+dns://34.218.33.231?st , Sao Tome and Principe TLD
+dns://52.63.82.137?st , Sao Tome and Principe TLD
+dns://190.57.67.37 , El Salvador 1
+dns://190.87.164.207 , El Salvador 2
+dns://204.61.216.112?sv , El Salvador TLD
+dns://185.159.197.10?sx , Sint Maarten (Dutch part) TLD
+dns://185.159.198.10?sx , Sint Maarten (Dutch part) TLD
+dns://185.159.199.10?sx , Sint Maarten (Dutch part) TLD
+dns://5.134.255.230 , Syrian Arab Republic 1
+dns://95.159.63.33 , Syrian Arab Republic 2
+dns://82.137.200.85?sy , Syrian Arab Republic TLD
+dns://69.63.73.234 , Eswatini 1
+dns://41.204.27.172 , Eswatini 2
+dns://193.0.9.114?sz , Eswatini TLD
+dns://217.154.159.29?tc , Turks and Caicos Islands TLD
+dns://87.106.83.96?tc , Turks and Caicos Islands TLD
+dns://31.169.81.226?tc , Turks and Caicos Islands TLD
+dns://41.242.153.33 , Chad 1
+dns://102.223.194.134 , Chad 2
+dns://185.28.194.194?td , Chad TLD
+dns://194.0.9.1?tf , French Southern Territories TLD
+dns://194.146.106.46?tf , French Southern Territories TLD
+dns://194.0.36.1?tf , French Southern Territories TLD
+dns://41.207.186.166 , Togo 1
+dns://156.38.75.114 , Togo 2
+dns://80.248.64.20?tg , Togo TLD
+dns://203.146.237.237 , Thailand 1
+dns://119.110.209.94 , Thailand 2
+dns://122.155.23.64?th , Thailand TLD
+dns://85.9.129.38 , Tajikistan 1
+dns://85.9.129.36 , Tajikistan 2
+dns://193.0.9.117?tj , Tajikistan TLD
+dns://194.0.39.1?tk , Tokelau TLD
+dns://194.0.40.1?tk , Tokelau TLD
+dns://194.0.41.1?tk , Tokelau TLD
+dns://180.189.167.34 , Timor-Leste 1
+dns://204.61.216.19?tl , Timor-Leste TLD
+dns://185.28.194.194?tl , Timor-Leste TLD
+dns://194.0.2.22?tm , Turkmenistan TLD
+dns://91.208.95.22?tm , Turkmenistan TLD
+dns://74.116.179.22?tm , Turkmenistan TLD
+dns://197.26.8.36 , Tunisia 1
+dns://193.95.93.243 , Tunisia 2
+dns://192.93.0.4?tn , Tunisia TLD
+dns://64.78.204.1?to , Tonga TLD
+dns://64.78.205.1?to , Tonga TLD
+dns://64.96.1.1?to , Tonga TLD
+dns://95.9.194.13 , Türkiye 1
+dns://92.45.59.195 , Türkiye 2
+dns://185.7.0.5?tr , Türkiye TLD
+dns://196.3.132.153 , Trinidad and Tobago 1
+dns://200.1.104.35 , Trinidad and Tobago 2
+dns://193.0.9.50?tt , Trinidad and Tobago TLD
+dns://37.209.194.6?tv , Tuvalu TLD
+dns://156.154.105.22?tv , Tuvalu TLD
+dns://156.154.104.22?tv , Tuvalu TLD
+dns://60.248.107.138 , Taiwan Province of China 1
+dns://60.251.117.118 , Taiwan Province of China 2
+dns://204.61.216.119?tw , Taiwan Province of China TLD
+dns://41.59.200.123 , Tanzania United Republic of 1
+dns://102.219.204.88 , Tanzania United Republic of 2
+dns://185.43.134.11?tz , Tanzania United Republic of TLD
+dns://147.78.3.252 , Ukraine 1
+dns://109.200.156.102 , Ukraine 2
+dns://193.46.128.10?ua , Ukraine TLD
+dns://41.222.4.34 , Uganda 1
+dns://196.43.185.99 , Uganda 2
+dns://196.216.168.42?ug , Uganda TLD
+dns://199.255.137.34 , United States of America 1
+dns://107.155.83.188 , United States of America 2
+dns://37.209.194.15?us , United States of America TLD
+dns://200.40.255.100 , Uruguay 1
+dns://167.57.52.193 , Uruguay 2
+dns://164.73.128.70?uy , Uruguay TLD
+dns://194.55.94.87 , Uzbekistan 1
+dns://176.96.243.182 , Uzbekistan 2
+dns://185.74.6.29?uz , Uzbekistan TLD
+dns://212.77.2.58?va , Holy See TLD
+dns://193.201.40.7?va , Holy See TLD
+dns://212.77.0.110?va , Holy See TLD
+dns://65.48.140.125 , Saint Vincent and the Grenadines 1
+dns://65.48.140.112 , Saint Vincent and the Grenadines 2
+dns://199.249.116.1?vc , Saint Vincent and the Grenadines TLD
+dns://186.24.50.164 , Venezuela Bolivarian Republic of 1
+dns://190.120.250.165 , Venezuela Bolivarian Republic of 2
+dns://45.175.22.4?ve , Venezuela Bolivarian Republic of TLD
+dns://212.18.249.104?vg , Virgin Islands (British) TLD
+dns://185.24.64.104?vg , Virgin Islands (British) TLD
+dns://194.169.218.104?vg , Virgin Islands (British) TLD
+dns://146.226.152.20 , Virgin Islands (U.S.) 1
+dns://146.226.228.19 , Virgin Islands (U.S.) 2
+dns://204.61.216.133?vi , Virgin Islands (U.S.) TLD
+dns://203.119.36.106 , Viet Nam 1
+dns://113.191.251.66 , Viet Nam 2
+dns://194.0.1.18?vn , Viet Nam TLD
+dns://37.209.192.6?vu , Vanuatu TLD
+dns://156.154.103.22?vu , Vanuatu TLD
+dns://156.154.104.22?vu , Vanuatu TLD
+dns://194.0.9.1?wf , Wallis and Futuna TLD
+dns://194.146.106.46?wf , Wallis and Futuna TLD
+dns://194.0.36.1?wf , Wallis and Futuna TLD
+dns://64.70.19.80?ws , Samoa TLD
+dns://64.70.19.70?ws , Samoa TLD
+dns://194.146.106.146?ws , Samoa TLD
+dns://37.35.64.222 , Kosovo 1
+dns://37.35.64.241 , Kosovo 2
+dns://5.255.19.115 , Yemen 1
+dns://5.255.19.163 , Yemen 2
+dns://204.61.216.153?ye , Yemen TLD
+dns://41.242.116.25 , Mayotte 1
+dns://194.0.9.1?yt , Mayotte TLD
+dns://194.146.106.46?yt , Mayotte TLD
+dns://160.119.221.16 , South Africa 1
+dns://169.255.31.163 , South Africa 2
+dns://196.4.160.27?za , South Africa TLD
+dns://41.173.23.150 , Zambia 1
+dns://165.56.3.226 , Zambia 2
+dns://204.61.216.73?zm , Zambia TLD
+dns://196.27.105.130 , Zimbabwe 1
+dns://197.211.207.18 , Zimbabwe 2
+dns://41.220.30.81?zw , Zimbabwe TLD
